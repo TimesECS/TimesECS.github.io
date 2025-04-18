@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, I'm **TimesE** — a.k.a. 我只是一个路过的帅b。  
-你好，我是 **TimesE**，一名拼好人，目前在做一些奇怪又酷的项目。
+Hi there, I'm **TimesE** 
+你好，我是 **TimesE**，这是我随便整的个人主页
 
 ---
 
@@ -36,12 +36,7 @@ Hi there, I'm **TimesE** — a.k.a. 我只是一个路过的帅b。
 
 ---
 
-🗣 **Talks 要不要？**  
-> Talks 是指你做过的公开演讲、展示、活动或会议分享，如果你曾参与过 hackathon 项目展示、课程中做过 presentation，可以放在这里。
-
----
-
-📝 **Blog 要不要？**  
+📝 **Blog ｜ 博客**  
 > Blog 是你想写点什么就写点什么的地方，比如对某个技术的理解、项目记录、日常感想、生活随笔。如果你愿意分享观点或过程，可以启用这个模块。
 
 ---

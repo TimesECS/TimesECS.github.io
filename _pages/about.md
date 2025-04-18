@@ -1,21 +1,20 @@
 ---
 permalink: /
-title: "TimesE 的个人主页 | TimesE's Personal Homepage"
+title: "TimesE's Personal Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there, I'm **TimesE** 
 你好，我是 **TimesE**，这是我随便整的个人主页
 
 ---
 
 🎯 **人物特征 | Traits**  
 - 拼好人 ｜ Mixed Persion
-- 爱躺平 ｜ Love Having No Pressure
-- 喜欢体验新事物 | Like Learning to Enjoy Life
+- 爱躺平 ｜ No Pressure
+- 学会享受 | Learning to Enjoy Life
 
 ---
 
@@ -38,9 +37,7 @@ Hi there, I'm **TimesE**
 ---
 
 📝 **Blog ｜ 博客**  
-> Blog 是你想写点什么就写点什么的地方，比如对某个技术的理解、项目记录、日常感想、生活随笔。如果你愿意分享观点或过程，可以启用这个模块。
+> 这个帅b还没开始写
 
 ---
 
-🧩 关于这个网站 | About this Site  
-这个网站使用 [Academic Pages 模板](https://github.com/academicpages/academicpages.github.io) 创建，托管在 [GitHub Pages](https://pages.github.com)。你可以在 GitHub 上看到我的代码与内容，未来可能持续更新一些个人项目、创作或想法。

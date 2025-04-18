@@ -14,7 +14,7 @@ redirect_from:
 🎯 **人物特征 | Traits**  
 - 拼好人 ｜ Mixed Persion
 - 爱躺平 ｜ No Pressure
-- 学会享受 | Learning to Enjoy Life
+- 学会享受 ｜ Learning to Enjoy Life
 
 ---
 

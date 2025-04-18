@@ -26,8 +26,8 @@ Hi there, I'm **TimesE**
 
 📄 **简历 | CV**  
 点击这里查看或下载我的简历： 
-[Download CV](/files/CV.pdf)
-[下载简历](/files/简历.pdf)
+[CV](/files/CV.pdf) 
+[简历](/files/简历.pdf)
 
 ---
 

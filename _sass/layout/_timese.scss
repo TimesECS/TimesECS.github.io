@@ -1,0 +1,250 @@
+.timese-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(220px, 0.65fr);
+  gap: 2rem;
+  align-items: center;
+  margin: 0 0 2rem;
+  padding: clamp(1.5rem, 4vw, 3rem);
+  border: 1px solid rgba(27, 31, 35, 0.1);
+  border-radius: 8px;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(244, 247, 251, 0.76)),
+    radial-gradient(circle at 12% 20%, rgba(13, 148, 136, 0.2), transparent 32%),
+    radial-gradient(circle at 82% 8%, rgba(238, 170, 52, 0.26), transparent 28%);
+  box-shadow: 0 22px 70px rgba(15, 23, 42, 0.08);
+}
+
+.timese-kicker,
+.timese-section__eyebrow {
+  margin: 0 0 0.7rem;
+  color: #0f766e;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.timese-hero h1 {
+  margin: 0 0 0.8rem;
+  color: #111827;
+  font-size: clamp(2.4rem, 7vw, 4.9rem);
+  line-height: 0.95;
+  letter-spacing: 0;
+}
+
+.timese-hero__lead {
+  max-width: 46rem;
+  margin: 0;
+  color: #334155;
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.timese-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin-top: 1.5rem;
+}
+
+.timese-button {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.5rem;
+  padding: 0.62rem 0.92rem;
+  border: 1px solid rgba(15, 23, 42, 0.14);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.72);
+  color: #162033;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.timese-button:hover {
+  border-color: rgba(15, 118, 110, 0.52);
+  color: #0f766e;
+  text-decoration: none;
+}
+
+.timese-button--primary {
+  border-color: #111827;
+  background: #111827;
+  color: #fff;
+}
+
+.timese-button--primary:hover {
+  border-color: #0f766e;
+  background: #0f766e;
+  color: #fff;
+}
+
+.timese-hero__portrait {
+  justify-self: center;
+  width: min(100%, 260px);
+  aspect-ratio: 1;
+  overflow: hidden;
+  border: 1px solid rgba(15, 23, 42, 0.12);
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 12px 12px 0 rgba(15, 118, 110, 0.16);
+}
+
+.timese-hero__portrait img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.timese-section,
+.timese-terminal {
+  margin: 1.5rem 0;
+  padding: 1.4rem;
+  border: 1px solid rgba(15, 23, 42, 0.1);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.timese-section--intro {
+  border-left: 4px solid #0f766e;
+}
+
+.timese-section h2 {
+  margin-top: 0;
+  color: #111827;
+  font-size: 1.45rem;
+  line-height: 1.25;
+}
+
+.timese-section p {
+  color: #334155;
+  line-height: 1.75;
+}
+
+.timese-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.9rem;
+  margin: 1.5rem 0;
+}
+
+.timese-card {
+  min-height: 13rem;
+  padding: 1.15rem;
+  border: 1px solid rgba(15, 23, 42, 0.1);
+  border-radius: 8px;
+  background: #f8fafc;
+}
+
+.timese-card span {
+  color: #b45309;
+  font-weight: 800;
+}
+
+.timese-card h3 {
+  margin: 0.7rem 0;
+  color: #111827;
+  font-size: 1.05rem;
+}
+
+.timese-card p {
+  margin: 0;
+  color: #475569;
+  line-height: 1.65;
+}
+
+.timese-link-list {
+  display: grid;
+  gap: 0.7rem;
+}
+
+.timese-link-list a {
+  display: grid;
+  grid-template-columns: 9rem minmax(0, 1fr);
+  gap: 1rem;
+  align-items: center;
+  padding: 0.9rem 1rem;
+  border: 1px solid rgba(15, 23, 42, 0.1);
+  border-radius: 8px;
+  color: #334155;
+  text-decoration: none;
+}
+
+.timese-link-list a:hover {
+  border-color: rgba(15, 118, 110, 0.5);
+  background: #f0fdfa;
+  text-decoration: none;
+}
+
+.timese-link-list strong {
+  color: #111827;
+}
+
+.timese-terminal {
+  overflow: hidden;
+  padding: 0;
+  background: #111827;
+  color: #d1fae5;
+}
+
+.timese-terminal__bar {
+  display: flex;
+  gap: 0.4rem;
+  padding: 0.85rem 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  background: #0f172a;
+}
+
+.timese-terminal__bar span {
+  width: 0.65rem;
+  height: 0.65rem;
+  border-radius: 50%;
+  background: #f59e0b;
+}
+
+.timese-terminal__bar span:nth-child(2) {
+  background: #10b981;
+}
+
+.timese-terminal__bar span:nth-child(3) {
+  background: #38bdf8;
+}
+
+.timese-terminal pre {
+  margin: 0;
+  padding: 1.2rem;
+  background: transparent;
+  color: inherit;
+  white-space: pre-wrap;
+}
+
+.timese-terminal code {
+  color: inherit;
+  font-size: 0.82rem;
+}
+
+@media (max-width: 900px) {
+  .timese-hero,
+  .timese-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .timese-hero__portrait {
+    justify-self: start;
+    width: 210px;
+  }
+}
+
+@media (max-width: 520px) {
+  .timese-hero,
+  .timese-section,
+  .timese-terminal {
+    margin-right: -0.2rem;
+    margin-left: -0.2rem;
+  }
+
+  .timese-link-list a {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}

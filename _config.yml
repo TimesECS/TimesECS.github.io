@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "TimesE/Homepage"
+title                    : "TimesE"
 title_separator          : "-"
 name                     : &name "TimesE"
-description              : &description "拼好人"
+description              : &description "Computer science, AI experiments, projects, and personal notes by TimesE."
 url                      : https://TimesECS.github.io # the base hostname & protocol for your site e.g. "https://TimesECS.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TimesECS/TimesECS.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "TimesE"
   pronouns         : "he/him"# example: "she/her"  
-  bio              : "一个路过的帅b"
+  bio              : "CS builder. AI tinkerer. Learning to enjoy life."
   location         : "China Hangzhou"
   employer         : "Cornell University"
   uri              : # URL
